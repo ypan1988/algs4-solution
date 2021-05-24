@@ -33,7 +33,5 @@ i  min  0  1  2  3  4  5  6  7  8  9 10 11
    #+END_QUOTE
 
 The maximum number of exchanges involving any particular item during
-selection sort is N (which happens when the first item has the highest
-value in the unsorted array).  The average number of exchanges
-involving an item is 1, because there are exactly N exchanges and N
-items.
+selection sort is N.  The average number of exchanges involving an
+item is 1, because there are exactly N exchanges and N items.
