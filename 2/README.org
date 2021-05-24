@@ -24,3 +24,16 @@ i  min  0  1  2  3  4  5  6  7  8  9 10 11
 11  11  A  E  E  I  N  O  Q  S  S  T  U  Y
 	A  E  E  I  N  O  Q  S  S  T  U  Y
    #+END_EXAMPLE
+
+** Exercise 2.1.2
+   #+BEGIN_QUOTE
+   What is the maximum number of exchanges involving any particular element
+   during selection sort? What is the average number of exchanges involving
+   an element?
+   #+END_QUOTE
+
+The maximum number of exchanges involving any particular item during
+selection sort is N (which happens when the first item has the highest
+value in the unsorted array).  The average number of exchanges
+involving an item is 1, because there are exactly N exchanges and N
+items.
