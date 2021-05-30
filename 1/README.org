@@ -1,0 +1,14 @@
+#+STARTUP: content
+
+* Exercises Section 1.1
+** Exercise 1.1.1
+   #+begin_quote
+   Give the value of each of the following expressions:
+   + a. ( 0 + 15 ) / 2
+   + b. 2.0e-6 * 100000000.1
+   + c. true && false || true && true
+   #+end_quote
+
+   + a) 7
+   + b) 200.0000002
+   + c) true
