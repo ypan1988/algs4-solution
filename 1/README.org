@@ -12,3 +12,17 @@
    + a) 7
    + b) 200.0000002
    + c) true
+
+** Exercise 1.1.2
+   #+begin_quote
+   Give the type and value of each of the following expressions:
+   + a. (1 + 2.236)/2
+   + b. 1 + 2 + 3 + 4.0
+   + c. 4.1 >= 4
+   + d. 1 + 2 + "3"
+   #+end_quote
+
+   + a) double 1.618
+   + b) double 10.0
+   + c) boolean true
+   + d) String 33
